@@ -31,7 +31,6 @@ public class PBO6K10116599Latihan19SaldoTabungan {
         lama=6;
         perBulan= (saldoAwal+(saldoAwal*bunga));
         
-        
         for (int i = 0; i < 6; i++) {
                     System.out.println("Saldo di bulan ke-" +(i+1)+ " Rp " +(saldoAwal+(saldoAwal*bunga)));
                     
